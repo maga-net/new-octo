@@ -1,0 +1,1 @@
+"# Byte-compiled / optimized / C extensions\n__pycache__/\n*.pyc\n*.pyo\n*.pyd\n\n# C extensions\n*.so\n\n# Distribution / packaging\nbuild/\ndist/\n*.egg-info/\n\n# Virtual Environments\nvenv/\n.venv/\nenv/\n\n# IDE directories\n.vscode/\n.idea/\n\n# Environment variables\n.env\n"
